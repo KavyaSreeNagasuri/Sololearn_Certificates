@@ -1,0 +1,9 @@
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: blueviolet;
+}
+a:hover{
+    color: pink;
+}
